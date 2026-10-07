@@ -42,16 +42,19 @@ mkdir
 cat
 ```
 
-### Environnement
+### 🖥️ Environnement
 
-- 💻 PC réel
-- 🐧 Linux recommandé
-- 🌐 Connexion réseau
-- 🔎 Nmap
-- 🐍 Python 3
+Le laboratoire peut être réalisé dans les environnements suivants :
 
-> ⚠️ **Aucune machine virtuelle n'est nécessaire.**  
-> Les manipulations sont réalisées directement sur ton ordinateur.
+- 🐧 Linux natif
+- 🪟 Windows avec WSL
+
+Aucune machine virtuelle à installer ou à configurer n'est nécessaire.
+
+> **Note pour WSL :** certaines informations affichées par `ip addr` et `ip route`
+> correspondent à l'environnement Linux utilisé par WSL et non directement à la
+> carte réseau physique de Windows. Utilise les valeurs affichées par les commandes
+> pendant le laboratoire.
 
 ---
 
