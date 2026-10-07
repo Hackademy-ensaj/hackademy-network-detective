@@ -152,16 +152,9 @@ En réalisant ce lab, tu commenceras à pratiquer :
 
 ---
 
-# 🏁 Mission finale
+HACKademy
 
-À la fin du parcours, tu devras être capable d'expliquer simplement :
+HACKademy — Cybersecurity Club
+École Nationale des Sciences Appliquées d'El Jadida (ENSAJ)
 
-> **Comment mon ordinateur se connecte-t-il au réseau ?**
-
-et de répondre à des questions comme :
-
-- Quelle est mon adresse IP ?
-- Quelle est ma passerelle ?
-- Quels ports sont en écoute ?
-- Quel service utilise un port donné ?
-- Comment créer un
+Learn. Hack. Create.
