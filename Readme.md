@@ -94,13 +94,7 @@ Découvrir les premières bases de la reconnaissance réseau avec Nmap en analys
 
 ---
 
-### 🔍 5. DNS
 
-Comprendre comment un nom de domaine est associé à une adresse IP grâce au DNS.
-
-👉 [Commencer la mission](missions/05-dns.md)
-
----
 
 # 🧠 Ce que tu vas pratiquer
 
@@ -112,7 +106,7 @@ Comprendre comment un nom de domaine est associé à une adresse IP grâce au DN
 | `curl` | Communiquer avec un serveur HTTP |
 | `python3 -m http.server` | Créer un serveur web local |
 | `nmap` | Découvrir des ports et services |
-| `nslookup` / `dig` | Interroger le DNS |
+
 
 ---
 
@@ -148,7 +142,7 @@ En réalisant ce lab, tu commenceras à pratiquer :
 - DNS
 - Network Enumeration
 - Nmap
-- Network Troubleshooting
+
 
 ---
 
